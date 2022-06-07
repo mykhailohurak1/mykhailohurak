@@ -2,6 +2,7 @@
 
 - 🔭 I’m studying **Full Stack Developer in GoIT Academy**
 - 🌱 I’m currently learning **JavaScript**
+- 📫 How to reach me: **mykhailohurak@gmail.com**
 
 <!--
 **mykhailohurak/mykhailohurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
