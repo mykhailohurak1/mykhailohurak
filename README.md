@@ -1,7 +1,7 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
 - 🔭 I’m studying **Full Stack Developer in GoIT Academy**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **React**
 - 📫 How to reach me: **mykhailohurak@gmail.com**
 
 <!--
